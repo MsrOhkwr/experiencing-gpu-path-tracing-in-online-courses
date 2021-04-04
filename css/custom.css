@@ -2,41 +2,41 @@ body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
     font-size: 18px;
-    width: 1200px;
+    width: 980px;
     margin: 0 auto;
 }
 h1 {
-    font-size: 48px;
+    font-size: 40px;
     text-align: center;
 }
 table.author {
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
-    width: 600px;
+    width: 60%;
     margin-bottom: 24px;
 }
 table.affiliation {
     font-size: 18px;
     text-align: center;
-    width: 600px;
+    width: 80%;
     margin-bottom: 18px;
 }
 table.material {
     font-size: 18px;
     text-align: center;
-    width: 600px;
+    width: 60%;
     margin-bottom: 18px;
 }
 div.graphical-abstract {
     text-align: center;
 }
 div.graphical-abstract img {
-    width: 600px;
+    width: 60%;
 }
 div.abstract {
     margin: 0 auto;
 }
 div.abstract p {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 }
